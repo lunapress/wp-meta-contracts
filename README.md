@@ -1,1 +1,1 @@
-# wp-meta-contracts
+# WP Meta Wrapper
